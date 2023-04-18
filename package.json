@@ -1,0 +1,30 @@
+{
+  "name": "zapzapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beardking/zapzapi.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beardking/zapzapi/issues"
+  },
+  "homepage": "https://github.com/beardking/zapzapi#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "qrcode": "^1.5.1",
+    "whatsapp-web.js": "^1.19.5"
+  }
+}
